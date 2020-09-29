@@ -1,6 +1,6 @@
 # Algorithmics-and-Programming-III
 
->Exhaustive search, greedy and metaheuristic algorithms performed on Comunio® databases to generate an optimum team fulfilling several constraints.
+>Exhaustive search, greedy and metaheuristic algorithms performed on Comunio® databases to generate an optimum football team fulfilling several constraints.
 
 This project consists of the implementation of the main algorithms seen during the 2019 Algorithmics and Programming III course given on the Degree in Data Science and Engineering at [UPC](https://www.upc.edu/ca).
 
