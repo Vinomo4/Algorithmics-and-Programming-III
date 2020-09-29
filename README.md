@@ -4,7 +4,11 @@
 
 This project consists of the implementation of the main algorithms seen during the 2019 Algorithmics and Programming III course given on the Degree in Data Science and Engineering at [UPC](https://www.upc.edu/ca).
 
-The aim of this project consists in analyzing and evaluating the difference of performance between the three types of algorithms, in terms of computation speed and the correctness of the achieved solution. 
+The aim of this project consists in analyzing and evaluating the difference of performance between the three types of algorithms, in terms of computation speed and the correctness of the achieved solution.
+
+<p align="center">
+  <img src='README Images/comunio.jpg'/ width = 500>
+</p>
 
 ## Introduction and basics
 
@@ -21,7 +25,7 @@ To execute this Knapsack variation, the Comunio® databases were used in order t
 These databases have the following structure:
 
 <p align="center">
-  <img src='/database_structure.PNG'/>
+  <img src='README Images/database_structure.png'/>
 </p>
 
 ## Main differences between algorithms
