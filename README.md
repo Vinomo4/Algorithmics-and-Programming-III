@@ -59,7 +59,7 @@ The files contained in this repository are:
 This project was developed by:
 | [![Vinomo4](https://avatars2.githubusercontent.com/u/49389601?s=60&v=4)](https://github.com/Vinomo4) | [<img src="https://avatars2.githubusercontent.com/u/43076234?s=10&v=4" width="60" height="60" />](https://github.com/Naxel100) |
 | --- | --- |
-| [Victor Novelle Moriano](https://github.com/Vinomo4) | [Alex Ferrando de las Morenas](https://github.com/Naxel100) |
+| [Víctor Novelle Moriano](https://github.com/Vinomo4) | [Alex Ferrando de las Morenas](https://github.com/Naxel100) |
 
 
 Students of Data Science and Engineering at [UPC](https://www.upc.edu/ca).
