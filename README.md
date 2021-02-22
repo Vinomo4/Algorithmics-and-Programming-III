@@ -46,7 +46,7 @@ In case of not achieving a final solution, the lastest partial solution stored i
 
 ## Architecture
 
-The files contained on this repository are:
+The files contained in this repository are:
 * The [`Comunio® Databases`](./Databases).
 * [`Exhaustive Search`](./exhaustive_search.cc),[`Greedy`](./greedy.cc) and [`Metaheuristic`](./metaheuristic.cc) algorithm implementations.
 * [`Easy`](./Easy_Queries),[`Medium`](./Medium_Queries) and [`Hard`](./Hard_Queries) Queries.
